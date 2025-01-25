@@ -6,7 +6,7 @@ I'm a biotechnology enthusiast and a recent post graduate in biotechnology from 
 ## 🛠 Skills
 - **Programming:** Python v3.12.0, R
 - **Tools & Technologies:** Scikit learn, Bioconductor, 1D-Convolutional Neural Networks, Neural Networks, Multimodal-deep learning
-- **Bioinformatics:** Differential gene expression, Survival Analysis, CIBERSORT, QSAR Modeling, Drug Repurposing, and Prognostic Model development
+- **Bioinformatics:** Differential gene expression, Survival Analysis, QSAR Modeling, Drug Repurposing, and Prognostic Model development
 
 
 ## 🌟 Projects
@@ -15,6 +15,10 @@ I'm a biotechnology enthusiast and a recent post graduate in biotechnology from 
 - **ResisenseNet: A Hybrid Neural Network Model for Predicting Drug Sensitivity and Repurposing in Breast Cancer:** Breast cancer is a leading cause of mortality among women, with drug resistance driven by transcription factors and mutations presenting significant challenges. To tackle this issue, we developed ResisenseNet, a predictive model for drug sensitivity and resistance that integrates transcription factor expression, genomic markers, drugs, and molecular descriptors. Utilizing a hybrid architecture of 1D-CNN+LSTM and DNN, ResisenseNet achieved impressive validation accuracy of 0.9794 and a loss value of 0.042. The model has been applied to repurpose existing anticancer drugs across 14 different cancers, identifying increased sensitivity in breast cancer for drugs targeting Low-grade Glioma (LGG) and Lung Adenocarcinoma (LUAD). Notably, 14 of the predicted sensitive drugs had no prior history of anticancer activity against breast cancer, highlighting novel therapeutic opportunities. ResisenseNet enhances chemotherapy effectiveness by filtering out ineffective compounds and providing valuable insights for improving breast cancer treatment strategies.
 
 ## 📚 Publications
+
+- **[ResisenseNet hybrid neural network model for predicting drug sensitivity and repurposing in breast Cancer](https://pubmed.ncbi.nlm.nih.gov/39397003/):**
+  *Published in Scientific Reports, 2024.* This research successfully identified prime candidates after a drug repurposing study against 14 different malignancy specific anticancer drugs.
+  
 - **[An exploratory drug discovery in breast cancer patients](https://pubmed.ncbi.nlm.nih.gov/38642491/#:~:text=Consequently%2C%20we%20successfully%20identified%20prime,path%20in%20combating%20breast%20cancer.):**
   *Published in Computers in Biology and Medicine, 2023.* This research successfully identified prime candidates for drug targeting, providing a potential therapeutic path in combating breast cancer.
   
